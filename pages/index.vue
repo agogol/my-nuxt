@@ -1,5 +1,6 @@
 <template>
   <div>
+    <NuxtLogo />
     <h1>Main</h1>
     <NuxtLink to="/about">
       About
